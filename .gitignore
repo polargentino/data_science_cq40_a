@@ -1,0 +1,21 @@
+# Entorno virtual
+ds_env/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Datos y configuraciones locales
+*.csv
+*.json
+*.xlsx
+*.db
+*.sqlite
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE/Editor
+.vscode/
+.idea/
